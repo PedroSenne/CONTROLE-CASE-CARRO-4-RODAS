@@ -5,7 +5,6 @@
 int xPin = A1;
 int yPin = A2;
  
- 
 //variáveis de Controle de cada botão
 int xEixo = 0;
 int yEixo = 0;
